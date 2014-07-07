@@ -1,0 +1,22 @@
+{
+    "name": "aenetworks/exacttarget",
+    "type": "library",
+    "keywords" : ["exact target", "exacttarget", "email", "api" ],
+    "description": "Component library for ExactTarget API",
+    "license": "MIT",
+    "homepage": "https://github.com/aenetworks/exacttarget",
+    "authors": [
+        {
+            "name": "Sue Park",
+            "email": "sue.park@aenetworks.com"
+        }
+    ],
+    "require": {
+        "php"         : ">=5.3.3"
+    },
+    "extra": {
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
